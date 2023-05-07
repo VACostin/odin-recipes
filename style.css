@@ -1,0 +1,11 @@
+p {
+    font-weight: bold;
+    font-family: Comic Sans, sans-serif;
+    color: grey;
+}
+
+div p {
+    width: 200px;
+    height: 40px;
+    background-color: red;
+}
